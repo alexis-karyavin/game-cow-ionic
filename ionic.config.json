@@ -1,0 +1,7 @@
+{
+  "name": "guess_word",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
